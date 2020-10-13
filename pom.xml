@@ -22,7 +22,7 @@
         <mysql.version>8.0.17</mysql.version>
         <poi.version>4.1.0</poi.version>
         <dom4j.version>2.1.0</dom4j.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <json.version>2.4</json.version>
         <http.version>4.5.9</http.version>
     </properties>
