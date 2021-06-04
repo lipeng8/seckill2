@@ -24,7 +24,7 @@
         <dom4j.version>2.1.0</dom4j.version>
         <junit.version>4.12</junit.version>
         <json.version>2.4</json.version>
-        <http.version>4.5.9</http.version>
+        <http.version>4.5.13</http.version>
     </properties>
 
     <dependencies>
